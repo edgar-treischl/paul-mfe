@@ -50,7 +50,7 @@ function App() {
         ...prev,
         isLoading: false,
         schoolData: {
-          name: 'Beispiel OES Daten',
+          name: 'Beispiel Daten',
           plots,
           plotData: plotDataMap,
         },
@@ -94,10 +94,6 @@ function App() {
             <div className="header-content">
               <div className="header-left">
                 <img src={logo} alt="ReportMaster" className="header-logo" />
-                <div className="header-text">
-                  <h1 className="app-title">ReportMaster</h1>
-                  <p className="app-subtitle">Create LimeSurvey Reports</p>
-                </div>
               </div>
               <div className="header-right">
                 <button className="paul-mfe__button paul-mfe__button-secondary" onClick={handleBackToLanding}>

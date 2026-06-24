@@ -1,34 +1,31 @@
 import { memo } from 'react'
-import heroPng from '../assets/hero.png';
+import heroPng from '../assets/paul.png';
 
 function HeroViewComponent() {
   return (
     <div className="paul-mfe__hero-container">
       <div className="paul-mfe__hero-content">
         <div className="paul-mfe__hero-text">
-          <p className="paul-mfe__eyebrow">Bayerns Schulen in Zahlen</p>
+          <p className="paul-mfe__eyebrow">Passgenaue Umfragen mit Limesurvey®</p>
           <h1>
-            <span className="paul-mfe__hero-highlight">Klassenwiederholungen in Bayern</span>
+            <span className="paul-mfe__hero-highlight">Paul</span>
           </h1>
           <p>
-            Klassenwiederholungen geben einen wichtigen Einblick in den schulischen Erfolg und zeigen, wo Lernschwierigkeiten entstehen. 
+           Paul ermöglicht maßgeschneiderte Umfragen, die auf die Bedürfnisse der Schule zugeschnitten sind. 
           </p>
+
           <p>
-            In dieser App können Sie die Entwicklung der Wiederholungsquoten in Bayern über die Jahre 2018 bis 2024 erkunden.
+            Die Paul-App bereitet die Umfrageergebnisse auf und stellt sie in einer übersichtlichen Form dar.
           </p>
 
           <div className="paul-mfe__hero-features">
             <div className="paul-mfe__feature">
-              <strong>Wiederholungsquoten</strong>
-              <p>Quer- und Längsschnitt (2018 bis 2024)</p>
-            </div>
-            <div className="paul-mfe__feature">
-              <strong>Ergebnisse nach</strong>
-              <p>Geschlecht & Migrationshintergrund</p>
+              <strong>Umfang bislang:</strong>
+              <p>Gesamtauswertung</p>
             </div>
             <div className="paul-mfe__feature">
               <strong>Quelle</strong>
-              <p>Bayerns Schulen in Zahlen (LfStat) </p>
+              <p>Schuleebene</p>
             </div>
           </div>
         </div>

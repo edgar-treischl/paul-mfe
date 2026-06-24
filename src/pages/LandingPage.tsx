@@ -11,7 +11,7 @@ export function LandingPage({ onViewData }: LandingPageProps) {
       <HeroView />
       <div className="paul-mfe__cta-section">
         <button className="paul-mfe__btn-cta" onClick={onViewData}>
-          Daten inspizieren
+          Beispieldaten inspizieren
         </button>
       </div>
     </div>
