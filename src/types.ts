@@ -41,7 +41,6 @@ export interface PlotDataWithMeta {
 }
 
 export interface AppState {
-  formData: FormData;
   schoolData: SchoolData | null;
   selectedPlot: string | null;
   isLoading: boolean;

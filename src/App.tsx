@@ -1,14 +1,8 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import './App.css'
 import type {
-  FormData,
   AppState,
   ExampleDataItem,
-} from './types'
-import {
-  AUDIENCE_OPTIONS,
-  GANZTAG_OPTIONS,
-  STYPE_OPTIONS,
 } from './types'
 import { logo } from './assets'
 import { StackedBarChart } from './components/StackedBarChart'
@@ -20,12 +14,6 @@ import metaSetsJson from './data/meta_sets.json'
 
 function App() {
   const [state, setState] = useState<AppState>({
-    formData: {
-      snr: '2370',
-      audience: 'sus',
-      ganztag: false,
-      stype: 'gm',
-    },
     schoolData: null,
     selectedPlot: null,
     isLoading: false,
@@ -33,34 +21,8 @@ function App() {
     reportAvailable: false,
   })
 
-  const handleInputChange = (field: keyof FormData, value: string | boolean) => {
-    setState((prev) => ({
-      ...prev,
-      formData: { ...prev.formData, [field]: value },
-    }))
-  }
-
-  const handleLoadData = () => {
-    setState((prev) => ({ ...prev, isLoading: true }))
-    // TODO: Connect to backend API
-    setTimeout(() => {
-      setState((prev) => ({
-        ...prev,
-        isLoading: false,
-        schoolData: {
-          name: `School ${prev.formData.snr}`,
-          plots: [
-            { id: 'plot1', label: 'Plot 1' },
-            { id: 'plot2', label: 'Plot 2' },
-            { id: 'plot3', label: 'Plot 3' },
-          ],
-        },
-        selectedPlot: 'plot1',
-      }))
-    }, 1000)
-  }
-
-  const handleLoadExampleData = () => {
+  // Load example data on app startup
+  useEffect(() => {
     setState((prev) => ({ ...prev, isLoading: true }))
     
     setTimeout(() => {
@@ -93,7 +55,7 @@ function App() {
         selectedPlot: availablePlots[0] || null,
       }))
     }, 500)
-  }
+  }, [])
 
   const handleGenerateReport = () => {
     setState((prev) => ({ ...prev, isGeneratingReport: true }))
@@ -135,114 +97,13 @@ function App() {
             <div className="card-header">
               <div className="card-header-content">
                 <div>
-                  <h3 className="card-title">Konfiguration</h3>
-                  <p className="card-subtitle">Schulparameter eingeben</p>
+                  <h3 className="card-title">Abbildungen</h3>
                 </div>
-                <button
-                  className="btn-icon-header"
-                  onClick={handleLoadExampleData}
-                  disabled={state.isLoading}
-                  title="Beispieldaten laden"
-                >
-                  <span className="icon"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
-                  <path fill="#E9570F" d="M9.428 10.286A4.286 4.286 0 0 1 13.714 6v-.857a5.143 5.143 0 0 0-5.143 5.143zm4.286-3a3 3 0 0 0-3 3h-.857a3.857 3.857 0 0 1 3.857-3.857zm0 1.285A1.714 1.714 0 0 0 12 10.286h-.858a2.57 2.57 0 0 1 2.572-2.572zm-3.857 6a4.286 4.286 0 0 1-4.286-4.285h-.857a5.143 5.143 0 0 0 5.143 5.143zm-3-4.285a3 3 0 0 0 3 3v.857A3.857 3.857 0 0 1 6 10.286zm1.285 0A1.714 1.714 0 0 0 9.857 12v.857a2.57 2.57 0 0 1-2.572-2.571zm6-.429a4.286 4.286 0 0 1 4.286 4.286h.857A5.143 5.143 0 0 0 14.142 9zm3 4.286a3 3 0 0 0-3-3v-.857A3.86 3.86 0 0 1 18 14.143zm-1.285 0a1.714 1.714 0 0 0-1.715-1.715v-.857a2.57 2.57 0 0 1 2.572 2.572zm-4.286 0a1.714 1.714 0 0 1-1.714 1.714v.857a2.57 2.57 0 0 0 2.571-2.571zm1.286 0a3 3 0 0 1-3 3V18a3.857 3.857 0 0 0 3.857-3.857zm-3 4.285a4.286 4.286 0 0 0 4.285-4.285H15a5.143 5.143 0 0 1-5.143 5.143z"/></svg>
-                  </span>
-                   <p className="card-subtitle">Beispieldaten</p>
-                </button>
               </div>
             </div>
             <div className="card-body">
-              <div className="form-group">
-                <label htmlFor="snr">
-                   Schulnummer (SNR):
-                </label>
-                <input
-                  type="text"
-                  id="snr"
-                  className="form-control"
-                  value={state.formData.snr}
-                  onChange={(e) => handleInputChange('snr', e.target.value)}
-                />
-              </div>
-
-              <div className="form-group">
-                <label htmlFor="audience">
-                  <span className="icon"></span>
-                  Befragtengruppe:
-                </label>
-                <select
-                  id="audience"
-                  className="form-control"
-                  value={state.formData.audience}
-                  onChange={(e) => handleInputChange('audience', e.target.value)}
-                >
-                  {AUDIENCE_OPTIONS.map((option) => (
-                    <option key={option.value} value={option.value}>
-                      {option.label}
-                    </option>
-                  ))}
-                </select>
-              </div>
-
-              <div className="form-group">
-                <label htmlFor="ganztag">
-                  <span className="icon"></span>
-                  Ganztag:
-                </label>
-                <select
-                  id="ganztag"
-                  className="form-control"
-                  value={state.formData.ganztag ? 'true' : 'false'}
-                  onChange={(e) => handleInputChange('ganztag', e.target.value === 'true')}
-                >
-                  {GANZTAG_OPTIONS.map((option) => (
-                    <option key={String(option.value)} value={String(option.value)}>
-                      {option.label}
-                    </option>
-                  ))}
-                </select>
-              </div>
-
-              <div className="form-group">
-                <label htmlFor="stype">
-                  <span className="icon"></span>
-                  Schulart:
-                </label>
-                <select
-                  id="stype"
-                  className="form-control"
-                  value={state.formData.stype}
-                  onChange={(e) => handleInputChange('stype', e.target.value)}
-                >
-                  {STYPE_OPTIONS.map((option) => (
-                    <option key={option.value} value={option.value}>
-                      {option.label}
-                    </option>
-                  ))}
-                </select>
-              </div>
-
-              <button
-                className="btn btn-success btn-block btn-large"
-                onClick={handleLoadData}
-                disabled={state.isLoading}
-              >
-                {state.isLoading ? (
-                  <>
-                    <span className="spinner-icon">⏳</span>
-                    Lade...
-                  </>
-                ) : (
-                  <>
-                    <span className="icon">⬇</span>
-                    Daten laden
-                  </>
-                )}
-              </button>
-
               {state.schoolData && (
                 <>
-                  <div className="divider"></div>
                   <h4 className="section-title">
                     <span className="icon">
                       <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24">
