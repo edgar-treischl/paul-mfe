@@ -1,8 +1,3 @@
-export interface AuthState {
-  isAuthenticated: boolean;
-  apiKey: string | null;
-}
-
 export interface FormData {
   snr: string;
   audience: 'all' | 'aus' | 'elt' | 'leh' | 'sus' | 'ubb';

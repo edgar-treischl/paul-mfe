@@ -3,7 +3,6 @@ import './App.css'
 import type {
   FormData,
   AppState,
-  AuthState,
   ExampleDataItem,
 } from './types'
 import {
@@ -11,9 +10,6 @@ import {
   GANZTAG_OPTIONS,
   STYPE_OPTIONS,
 } from './types'
-import { isAuthEnabled, getApiKey, setApiKey, clearApiKey } from './config'
-import AuthPage from './AuthPage'
-import LogoutModal from './LogoutModal'
 import { logo } from './assets'
 import { StackedBarChart } from './components/StackedBarChart'
 import { processExampleData, getAvailablePlots } from './dataProcessor'
@@ -23,23 +19,6 @@ import metaHeadersJson from './data/meta_headers.json'
 import metaSetsJson from './data/meta_sets.json'
 
 function App() {
-  // Initialize auth state from localStorage on mount
-  const [authState, setAuthState] = useState<AuthState>(() => {
-    if (!isAuthEnabled()) {
-      return {
-        isAuthenticated: true,
-        apiKey: getApiKey(),
-      }
-    }
-    const savedKey = getApiKey()
-    return {
-      isAuthenticated: !!savedKey,
-      apiKey: savedKey,
-    }
-  })
-
-  const [showLogoutModal, setShowLogoutModal] = useState(false)
-
   const [state, setState] = useState<AppState>({
     formData: {
       snr: '2370',
@@ -54,45 +33,6 @@ function App() {
     reportAvailable: false,
   })
 
-  const handleAuthenticate = (apiKey: string) => {
-    setApiKey(apiKey)
-    setAuthState({
-      isAuthenticated: true,
-      apiKey,
-    })
-  }
-
-  const handleLogoutClick = () => {
-    setShowLogoutModal(true)
-  }
-
-  const handleLogoutConfirm = () => {
-    clearApiKey()
-    setAuthState({
-      isAuthenticated: false,
-      apiKey: null,
-    })
-    // Reset app state
-    setState({
-      formData: {
-        snr: '2370',
-        audience: 'sus',
-        ganztag: false,
-        stype: 'gm',
-      },
-      schoolData: null,
-      selectedPlot: null,
-      isLoading: false,
-      isGeneratingReport: false,
-      reportAvailable: false,
-    })
-    setShowLogoutModal(false)
-  }
-
-  const handleLogoutCancel = () => {
-    setShowLogoutModal(false)
-  }
-
   const handleInputChange = (field: keyof FormData, value: string | boolean) => {
     setState((prev) => ({
       ...prev,
@@ -101,13 +41,8 @@ function App() {
   }
 
   const handleLoadData = () => {
-    if (!authState.isAuthenticated) {
-      alert('Authentication required')
-      return
-    }
-
     setState((prev) => ({ ...prev, isLoading: true }))
-    // TODO: Connect to backend API with authState.apiKey
+    // TODO: Connect to backend API
     setTimeout(() => {
       setState((prev) => ({
         ...prev,
@@ -177,11 +112,6 @@ function App() {
     console.log('Downloading report...')
   }
 
-  // Show auth page if not authenticated
-  if (!authState.isAuthenticated) {
-    return <AuthPage onAuthenticate={handleAuthenticate} />
-  }
-
   return (
     <div className="app-container">
       <div className="app-header">
@@ -194,12 +124,6 @@ function App() {
             </div>
           </div>
           <div className="header-right">
-            {isAuthEnabled() && (
-              <button className="btn btn-outline" onClick={handleLogoutClick}>
-                <span className="icon">⏻️</span>
-                Abmelden
-              </button>
-            )}
           </div>
         </div>
       </div>
@@ -461,11 +385,6 @@ function App() {
         </a>
       </footer>
 
-      <LogoutModal 
-        isOpen={showLogoutModal}
-        onConfirm={handleLogoutConfirm}
-        onCancel={handleLogoutCancel}
-      />
     </div>
   )
 }
