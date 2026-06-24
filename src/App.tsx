@@ -89,15 +89,16 @@ function App() {
       {showLanding ? (
         <LandingPage onViewData={handleViewData} />
       ) : (
-        <div className="app-container">
-          <div className="app-header">
-            <div className="header-content">
-              <div className="header-left">
-                <img src={logo} alt="ReportMaster" className="header-logo" />
-              </div>
-              <div className="header-right">
-                <button className="paul-mfe__button paul-mfe__button-secondary" onClick={handleBackToLanding}>
-                  ← Zurück zur Startseite
+        <div className="paul-mfe paul-mfe__app-container">
+          <div className="paul-mfe__app-header">
+            <div className="paul-mfe__header-content">
+              <div className="paul-mfe__header-left">
+                <button 
+                  onClick={handleBackToLanding}
+                  className="paul-mfe__header-logo-button"
+                  aria-label="Back to landing page"
+                >
+                  <img src={logo} alt="Paul App" className="paul-mfe__header-logo" />
                 </button>
               </div>
             </div>
@@ -209,8 +210,8 @@ function App() {
                           })()}
                         </div>
                       ) : (
-                        <div className="plot-placeholder">
-                          <div className="plot-icon">📈</div>
+                        <div className="paul-mfe__plot-placeholder">
+                          <div className="paul-mfe__plot-icon">📈</div>
                           <h3>{state.selectedPlot}</h3>
                           <p className="paul-mfe__helper-text">
                             Visualisierungen werden hier angezeigt. (Noch nicht implementiert)
@@ -218,8 +219,8 @@ function App() {
                         </div>
                       )
                     ) : (
-                      <div className="empty-state">
-                        <div className="empty-icon">📊</div>
+                      <div className="paul-mfe__empty-state">
+                        <div className="paul-mfe__empty-icon">📊</div>
                         <h3>Keine Daten verfügbar</h3>
                         <p>Klicken Sie auf "Daten laden" oder "Beispieldaten laden".</p>
                       </div>

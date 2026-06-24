@@ -1,5 +1,4 @@
 import { HeroView } from '../components/HeroPage'
-import './LandingPage.css'
 
 interface LandingPageProps {
   onViewData: () => void
@@ -7,7 +6,7 @@ interface LandingPageProps {
 
 export function LandingPage({ onViewData }: LandingPageProps) {
   return (
-    <div className="paul-mfe__landing-page">
+    <div className="paul-mfe paul-mfe__landing-page">
       <HeroView />
       <div className="paul-mfe__cta-section">
         <button className="paul-mfe__btn-cta" onClick={onViewData}>
