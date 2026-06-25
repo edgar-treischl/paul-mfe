@@ -42,9 +42,9 @@ export function GroupSelectorPage({ onSelectGroup, onBack }: GroupSelectorPagePr
 function GroupSelectorHeader() {
   return (
     <div className="paul-mfe__group-selector-header">
-      <h1 className="paul-mfe__group-selector-title">Ansicht wählen</h1>
+      <h1 className="paul-mfe__group-selector-title">Umfragegruppe wählen</h1>
       <p className="paul-mfe__group-selector-subtitle">
-        Bitte wählen Sie eine Gruppe, für die Sie die Daten anzeigen möchten.
+        Bitte wählen Sie eine Gruppe, für die Sie die Ergebnisse anzeigen möchten.
       </p>
     </div>
   )

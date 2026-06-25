@@ -23,7 +23,7 @@ export const groupRegistry: GroupConfig[] = [
   {
     id: 'elt',
     label: 'Eltern',
-    description: 'Sichtweise der Eltern / Parents',
+    description: 'Ergebnisse der Eltern',
     icon: '👨‍👩‍👧‍👦',
     emoji: '👨‍👩‍👧‍👦',
     color: '#3B82F6',
@@ -32,7 +32,7 @@ export const groupRegistry: GroupConfig[] = [
   {
     id: 'leh',
     label: 'Lehrkräfte',
-    description: 'Sichtweise der Lehrkräfte / Teachers',
+    description: 'Ergebnisse der Lehrkräfte',
     icon: '🎓',
     emoji: '🎓',
     color: '#8B5CF6',
@@ -40,8 +40,8 @@ export const groupRegistry: GroupConfig[] = [
   },
   {
     id: 'sus',
-    label: 'Schüler*innen',
-    description: 'Sichtweise der Schüler*innen / Pupils',
+    label: 'Schüler/innen',
+    description: 'Ergebnisse der Schüler/innen',
     icon: '👨‍🎓',
     emoji: '👨‍🎓',
     color: '#EC4899',

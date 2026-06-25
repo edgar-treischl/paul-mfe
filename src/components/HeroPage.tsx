@@ -13,19 +13,19 @@ function HeroViewComponent({ onCTA }: HeroViewProps) {
         <div className="paul-mfe__hero-logo-wrapper">
           <img src={heroPng} alt="Paul" className="paul-mfe__hero-logo" />
         </div>
-        <p className="paul-mfe__hero-tagline">Passgenaue Umfragen mit Limesurvey®</p>
+        <p className="paul-mfe__hero-tagline">Online Evaluation System</p>
       </div>
       
       {/* Right Side: Description and CTA */}
       <div className="paul-mfe__hero-right">
-        <h1 className="paul-mfe__hero-title">Umfrageergebnisse erfolgreich visualisieren</h1>
+        <h1 className="paul-mfe__hero-title">Herzlich Willkommen</h1>
         
         <p className="paul-mfe__hero-primary">
-          Paul ermöglicht maßgeschneiderte Umfragen, die auf die Bedürfnisse der Schule zugeschnitten sind.
+          Das OES (Online Evaluation System) ist ein webbasiertes Tool, das Schulen unterstützt, zentrale Befragungen aller beteiligten Personengruppen durchzuführen.
         </p>
 
         <p className="paul-mfe__hero-secondary">
-          Die Paul-App bereitet die Umfrageergebnisse auf und stellt sie in einer übersichtlichen Form dar.
+          Die OES App bereitet alle Ergebnisse der Online Evaluation auf einem Blick auf.
         </p>
 
         <div className="paul-mfe__hero-features">
