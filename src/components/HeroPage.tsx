@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import heroPng from '../assets/oes.png';
+import heroPng from '../lib/utils/assets/oes.png';
 
 interface HeroViewProps {
   onCTA?: () => void;

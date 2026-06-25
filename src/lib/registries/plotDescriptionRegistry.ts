@@ -7,8 +7,8 @@
  */
 
 // Import raw markdown files as strings
-import a5DescriptionRaw from './data/descriptions/a5.md?raw'
-import b1DescriptionRaw from './data/descriptions/b1.md?raw'
+import a5DescriptionRaw from '../../data/descriptions/a5.md?raw'
+import b1DescriptionRaw from '../../data/descriptions/b1.md?raw'
 
 export interface PlotDescription {
   id: string;

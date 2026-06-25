@@ -5,9 +5,9 @@ import { PlotList } from '../components/PlotList'
 import { ReportSection } from '../components/ReportSection'
 import { DataHeaderSection } from '../components/DataHeaderSection'
 import { DataDescriptionSection } from '../components/DataDescriptionSection'
-import { getPlotDescriptionText } from '../plotDescriptionRegistry'
-import type { AppState } from '../types'
-import type { MetaSet } from '../iqb'
+import { getPlotDescriptionText } from '../lib/registries/plotDescriptionRegistry'
+import type { AppState } from '../lib/types/types'
+import type { MetaSet } from '../lib/types/iqb'
 import metaSetsJson from '../data/meta_sets.json'
 
 interface DataViewerPageProps {

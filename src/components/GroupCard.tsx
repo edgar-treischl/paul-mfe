@@ -1,5 +1,5 @@
 import type { ReactNode } from 'react'
-import type { GroupConfig, GroupId } from '../groupRegistry'
+import type { GroupConfig, GroupId } from '../lib/registries/groupRegistry'
 
 interface GroupCardProps {
   group: GroupConfig

@@ -1,8 +1,8 @@
-import { getGroupsSorted, type GroupId } from '../groupRegistry'
+import { getGroupsSorted, type GroupId } from '../lib/registries/groupRegistry'
 import { AppHeader } from '../components/AppHeader'
 import { TopBackButton } from '../components/TopBackButton'
 import { GroupCard } from '../components/GroupCard'
-import { TeachersIcon, PupilsIcon, ParentsIcon } from '../assets/icons'
+import { TeachersIcon, PupilsIcon, ParentsIcon } from '../lib/utils/assets/icons'
 import '../styles/GroupSelector.css'
 
 interface GroupSelectorPageProps {

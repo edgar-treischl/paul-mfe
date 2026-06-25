@@ -4,15 +4,15 @@
  * Dynamically loads group-specific data files
  */
 
-import { getGroupById, type GroupId } from './groupRegistry'
-import type { ExampleDataItem, PlotDataWithMeta } from './types'
+import { getGroupById, type GroupId } from '../registries/groupRegistry'
+import type { ExampleDataItem, PlotDataWithMeta } from '../types/types'
 import { processExampleData, getAvailablePlots } from './dataProcessor'
-import type { MetaHeader, MetaSet } from './iqb'
+import type { MetaHeader, MetaSet } from '../types/iqb'
 
 // Import all group data files
-import exampleDataElt from './data/example_data/example_data_elt.json'
-import exampleDataLeh from './data/example_data/example_data_leh.json'
-import exampleDataSus from './data/example_data/example_data_sus.json'
+import exampleDataElt from '../../data/example_data/example_data_elt.json'
+import exampleDataLeh from '../../data/example_data/example_data_leh.json'
+import exampleDataSus from '../../data/example_data/example_data_sus.json'
 
 const groupDataMap: Record<GroupId, ExampleDataItem[]> = {
   elt: exampleDataElt,

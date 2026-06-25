@@ -3,7 +3,7 @@
  * Consistent navigation across all app screens
  */
 
-import { logo } from '../assets'
+import { logo } from '../lib/utils/assets'
 import '../styles/AppHeader.css'
 
 interface AppHeaderProps {

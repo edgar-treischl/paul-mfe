@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import html2canvas from 'html2canvas'
-import { type ChartGroup, type MetaSet, getColorMapping, formatPercentage } from '../iqb'
+import { type ChartGroup, type MetaSet, getColorMapping, formatPercentage } from '../lib/types/iqb'
 import './StackedBarChart.css'
 
 type StackedBarChartProps = {

@@ -1,6 +1,6 @@
-import type { ExampleDataItem, PlotDataWithMeta } from './types'
-import type { ChartGroup, MetaHeader, MetaSet } from './iqb'
-import { formatLabelWithCode } from './iqb'
+import type { ExampleDataItem, PlotDataWithMeta } from '../types/types'
+import type { ChartGroup, MetaHeader, MetaSet } from '../types/iqb'
+import { formatLabelWithCode } from '../types/iqb'
 
 /**
  * Process example data from JSON and convert it to chart groups with metadata
