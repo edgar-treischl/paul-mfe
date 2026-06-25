@@ -1,0 +1,3712 @@
+[
+  {
+    "vars": "B131W124A",
+    "vals": "weiß nicht",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "weiß nicht",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt ganz genau",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt eher",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt zum Teil",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt gar nicht",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "weiß nicht",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt ganz genau",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt eher",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt zum Teil",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt eher nicht",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt gar nicht",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132",
+    "vals": "weiß nicht",
+    "label_short": "Ich fühle mich an unserer Schule sehr wohl.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich fühle mich an unserer Schule sehr wohl.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132",
+    "vals": "stimmt eher",
+    "label_short": "Ich fühle mich an unserer Schule sehr wohl.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich fühle mich an unserer Schule sehr wohl.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132",
+    "vals": "stimmt eher nicht",
+    "label_short": "Ich fühle mich an unserer Schule sehr wohl.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132",
+    "vals": "stimmt gar nicht",
+    "label_short": "Ich fühle mich an unserer Schule sehr wohl.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133",
+    "vals": "weiß nicht",
+    "label_short": "Ich fühle mich an unserer Schule sicher.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133",
+    "vals": "stimmt eher",
+    "label_short": "Ich fühle mich an unserer Schule sicher.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich fühle mich an unserer Schule sicher.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133",
+    "vals": "stimmt eher nicht",
+    "label_short": "Ich fühle mich an unserer Schule sicher.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133",
+    "vals": "stimmt gar nicht",
+    "label_short": "Ich fühle mich an unserer Schule sicher.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "weiß nicht",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir gehen an der Schule respektvoll miteinander um.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "weiß nicht",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt ganz genau",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt eher",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt zum Teil",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124B",
+    "vals": "stimmt gar nicht",
+    "label_short": "An dieser Schule wird man respektiert, egal wo die Familie herkommt oder welchen Glauben man hat.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "weiß nicht",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt ganz genau",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt eher",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt zum Teil",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt eher nicht",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124C",
+    "vals": "stimmt gar nicht",
+    "label_short": "Bei uns werden einzelne Schülerinnen und Schüler oft ausgegrenzt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B312",
+    "vals": "weiß nicht",
+    "label_short": "Bei Problemen und Fragen weiß ich, an wen ich mich an der Schule wenden kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B31"
+  },
+  {
+    "vars": "B312",
+    "vals": "stimmt ganz genau",
+    "label_short": "Bei Problemen und Fragen weiß ich, an wen ich mich an der Schule wenden kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B31"
+  },
+  {
+    "vars": "B312",
+    "vals": "stimmt eher",
+    "label_short": "Bei Problemen und Fragen weiß ich, an wen ich mich an der Schule wenden kann.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B31"
+  },
+  {
+    "vars": "B312",
+    "vals": "stimmt zum Teil",
+    "label_short": "Bei Problemen und Fragen weiß ich, an wen ich mich an der Schule wenden kann.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B31"
+  },
+  {
+    "vars": "B312",
+    "vals": "stimmt gar nicht",
+    "label_short": "Bei Problemen und Fragen weiß ich, an wen ich mich an der Schule wenden kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B31"
+  },
+  {
+    "vars": "B122",
+    "vals": "weiß nicht",
+    "label_short": "An dieser Schule werde ich akzeptiert so wie ich bin.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B12"
+  },
+  {
+    "vars": "B122",
+    "vals": "stimmt ganz genau",
+    "label_short": "An dieser Schule werde ich akzeptiert so wie ich bin.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B12"
+  },
+  {
+    "vars": "B122",
+    "vals": "stimmt zum Teil",
+    "label_short": "An dieser Schule werde ich akzeptiert so wie ich bin.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B12"
+  },
+  {
+    "vars": "B122",
+    "vals": "stimmt eher nicht",
+    "label_short": "An dieser Schule werde ich akzeptiert so wie ich bin.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B12"
+  },
+  {
+    "vars": "B122",
+    "vals": "stimmt gar nicht",
+    "label_short": "An dieser Schule werde ich akzeptiert so wie ich bin.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B12"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt eher",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt zum Teil",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt eher nicht",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt gar nicht",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "weiß nicht",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt ganz genau",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt eher",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt zum Teil",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt eher nicht",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B32"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt eher",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt zum Teil",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt eher nicht",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B321W261",
+    "vals": "stimmt gar nicht",
+    "label_short": "Kenne die Regeln, die ich beim Umgang mit digitalen Geräten an der Schule einhalten muss.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "weiß nicht",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt ganz genau",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt eher",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt zum Teil",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B325W265",
+    "vals": "stimmt eher nicht",
+    "label_short": "Reden im Unterricht darüber, welchen Einfluss digitale Medien auf die Welt und unser eigenes Leben haben",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W26"
+  },
+  {
+    "vars": "B332",
+    "vals": "weiß nicht",
+    "label_short": "Wir müssen uns bei allen Lehrkräften an die gleichen Regeln halten.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B332",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir müssen uns bei allen Lehrkräften an die gleichen Regeln halten.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B332",
+    "vals": "stimmt eher",
+    "label_short": "Wir müssen uns bei allen Lehrkräften an die gleichen Regeln halten.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B332",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir müssen uns bei allen Lehrkräften an die gleichen Regeln halten.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B111",
+    "vals": "weiß nicht",
+    "label_short": "Wir dürfen mitbestimmen, welche Regeln an unserer Schule gelten",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B11"
+  },
+  {
+    "vars": "B111",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir dürfen mitbestimmen, welche Regeln an unserer Schule gelten",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B11"
+  },
+  {
+    "vars": "B111",
+    "vals": "stimmt eher",
+    "label_short": "Wir dürfen mitbestimmen, welche Regeln an unserer Schule gelten",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B11"
+  },
+  {
+    "vars": "B111",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir dürfen mitbestimmen, welche Regeln an unserer Schule gelten",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B11"
+  },
+  {
+    "vars": "B111",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir dürfen mitbestimmen, welche Regeln an unserer Schule gelten",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B11"
+  },
+  {
+    "vars": "B111",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir dürfen mitbestimmen, welche Regeln an unserer Schule gelten",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B11"
+  },
+  {
+    "vars": "W2use",
+    "vals": "...nie",
+    "label_short": "Wir Schülerinnen und Schüler nutzen digitale Medien im Unterricht ungefähr …",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set11",
+    "plot_name": "W2sus"
+  },
+  {
+    "vars": "W2use",
+    "vals": "...einmal pro Monat oder seltener",
+    "label_short": "Wir Schülerinnen und Schüler nutzen digitale Medien im Unterricht ungefähr …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set11",
+    "plot_name": "W2sus"
+  },
+  {
+    "vars": "W2use",
+    "vals": "...mehrmals pro Monat",
+    "label_short": "Wir Schülerinnen und Schüler nutzen digitale Medien im Unterricht ungefähr …",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set11",
+    "plot_name": "W2sus"
+  },
+  {
+    "vars": "W2use",
+    "vals": "...mehrmals pro Woche",
+    "label_short": "Wir Schülerinnen und Schüler nutzen digitale Medien im Unterricht ungefähr …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set11",
+    "plot_name": "W2sus"
+  },
+  {
+    "vars": "W2use",
+    "vals": "...täglich oder mehrmals täglich",
+    "label_short": "Wir Schülerinnen und Schüler nutzen digitale Medien im Unterricht ungefähr …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set11",
+    "plot_name": "W2sus"
+  },
+  {
+    "vars": "A631A",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft spricht mit uns darüber, wie man sich die Zeit beim Lernen am besten einteilt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft spricht mit uns darüber, wie man sich die Zeit beim Lernen am besten einteilt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631A",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft spricht mit uns darüber, wie man sich die Zeit beim Lernen am besten einteilt.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft spricht mit uns darüber, wie man sich die Zeit beim Lernen am besten einteilt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft spricht mit uns darüber, wie man sich die Zeit beim Lernen am besten einteilt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631B",
+    "vals": "weiß nicht",
+    "label_short": "Wir besprechen oft, wie man am besten vorgeht, um eine Aufgabe oder ein Thema zu bearbeiten.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631B",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir besprechen oft, wie man am besten vorgeht, um eine Aufgabe oder ein Thema zu bearbeiten.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631B",
+    "vals": "stimmt eher",
+    "label_short": "Wir besprechen oft, wie man am besten vorgeht, um eine Aufgabe oder ein Thema zu bearbeiten.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir besprechen oft, wie man am besten vorgeht, um eine Aufgabe oder ein Thema zu bearbeiten.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631B",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir besprechen oft, wie man am besten vorgeht, um eine Aufgabe oder ein Thema zu bearbeiten.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631B",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir besprechen oft, wie man am besten vorgeht, um eine Aufgabe oder ein Thema zu bearbeiten.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A634",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft lässt sich von mir immer wieder mal erklären, wie ich zu einer Lösung gekommen bin.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A634",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft lässt sich von mir immer wieder mal erklären, wie ich zu einer Lösung gekommen bin.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A634",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft lässt sich von mir immer wieder mal erklären, wie ich zu einer Lösung gekommen bin.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A634",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft lässt sich von mir immer wieder mal erklären, wie ich zu einer Lösung gekommen bin.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A634",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft lässt sich von mir immer wieder mal erklären, wie ich zu einer Lösung gekommen bin.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A634",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft lässt sich von mir immer wieder mal erklären, wie ich zu einer Lösung gekommen bin.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "weiß nicht",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt eher",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "weiß nicht",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "weiß nicht",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt eher",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 5,
+    "p": 50,
+    "label_n": "50%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt eher nicht",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "weiß nicht",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt eher",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir nutzen digitale Medien zur Suche von Informationen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "weiß nicht",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A635W245b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir arbeiten online mit anderen SuS zusammen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W24"
+  },
+  {
+    "vars": "A321A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir arbeiten in diesem Fach häufig zu zweit oder in Gruppen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321A",
+    "vals": "stimmt eher",
+    "label_short": "Wir arbeiten in diesem Fach häufig zu zweit oder in Gruppen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir arbeiten in diesem Fach häufig zu zweit oder in Gruppen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir arbeiten in diesem Fach häufig zu zweit oder in Gruppen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir arbeiten in diesem Fach häufig zu zweit oder in Gruppen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321B",
+    "vals": "weiß nicht",
+    "label_short": "Der Unterricht ist abwechslungsreich und spannend.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321B",
+    "vals": "stimmt ganz genau",
+    "label_short": "Der Unterricht ist abwechslungsreich und spannend.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Der Unterricht ist abwechslungsreich und spannend.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A321B",
+    "vals": "stimmt eher nicht",
+    "label_short": "Der Unterricht ist abwechslungsreich und spannend.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "weiß nicht",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt eher",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 5,
+    "p": 50,
+    "label_n": "50%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "A324W242",
+    "vals": "stimmt eher nicht",
+    "label_short": "Ich finde den Unterricht spannender, wenn wir digitale Medien benutzen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A32"
+  },
+  {
+    "vars": "B211A",
+    "vals": "weiß nicht",
+    "label_short": "Ich kann aus interessanten Angeboten auswählen.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich kann aus interessanten Angeboten auswählen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich kann aus interessanten Angeboten auswählen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Ich kann aus interessanten Angeboten auswählen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Ich kann aus interessanten Angeboten auswählen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211B",
+    "vals": "weiß nicht",
+    "label_short": "Die Schule hat mich neugierig auf neue Themen gemacht.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211B",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Schule hat mich neugierig auf neue Themen gemacht.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211B",
+    "vals": "stimmt eher",
+    "label_short": "Die Schule hat mich neugierig auf neue Themen gemacht.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Schule hat mich neugierig auf neue Themen gemacht.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B211B",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Schule hat mich neugierig auf neue Themen gemacht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B212",
+    "vals": "weiß nicht",
+    "label_short": "Gute Gelegenheiten, besondere Begabungen weiterzuentwickeln",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B212",
+    "vals": "stimmt ganz genau",
+    "label_short": "Gute Gelegenheiten, besondere Begabungen weiterzuentwickeln",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B212",
+    "vals": "stimmt zum Teil",
+    "label_short": "Gute Gelegenheiten, besondere Begabungen weiterzuentwickeln",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B212",
+    "vals": "stimmt eher nicht",
+    "label_short": "Gute Gelegenheiten, besondere Begabungen weiterzuentwickeln",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B212",
+    "vals": "stimmt gar nicht",
+    "label_short": "Gute Gelegenheiten, besondere Begabungen weiterzuentwickeln",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B21"
+  },
+  {
+    "vars": "B223a",
+    "vals": "weiß nicht",
+    "label_short": "Ich habe für die Berufs- oder Studienwahl nützliche Informationen erhalten.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223a",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich habe für die Berufs- oder Studienwahl nützliche Informationen erhalten.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223a",
+    "vals": "stimmt eher",
+    "label_short": "Ich habe für die Berufs- oder Studienwahl nützliche Informationen erhalten.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223a",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich habe für die Berufs- oder Studienwahl nützliche Informationen erhalten.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Ich habe für die Berufs- oder Studienwahl nützliche Informationen erhalten.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223b",
+    "vals": "weiß nicht",
+    "label_short": "Die Einblicke in die berufliche Praxis haben mir bei der Berufs- oder Studienwahl geholfen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Einblicke in die berufliche Praxis haben mir bei der Berufs- oder Studienwahl geholfen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223b",
+    "vals": "stimmt eher",
+    "label_short": "Die Einblicke in die berufliche Praxis haben mir bei der Berufs- oder Studienwahl geholfen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Einblicke in die berufliche Praxis haben mir bei der Berufs- oder Studienwahl geholfen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Einblicke in die berufliche Praxis haben mir bei der Berufs- oder Studienwahl geholfen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223c",
+    "vals": "weiß nicht",
+    "label_short": "Ich habe erfahren, welche Berufe am besten zu meinen Stärken passen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223c",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich habe erfahren, welche Berufe am besten zu meinen Stärken passen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223c",
+    "vals": "stimmt eher",
+    "label_short": "Ich habe erfahren, welche Berufe am besten zu meinen Stärken passen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223c",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich habe erfahren, welche Berufe am besten zu meinen Stärken passen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223c",
+    "vals": "stimmt eher nicht",
+    "label_short": "Ich habe erfahren, welche Berufe am besten zu meinen Stärken passen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223c",
+    "vals": "stimmt gar nicht",
+    "label_short": "Ich habe erfahren, welche Berufe am besten zu meinen Stärken passen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223d",
+    "vals": "weiß nicht",
+    "label_short": "Insgesamt bin ich mit dem Angebot meiner Schule zur beruflichen Orientierung zufrieden.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223d",
+    "vals": "stimmt ganz genau",
+    "label_short": "Insgesamt bin ich mit dem Angebot meiner Schule zur beruflichen Orientierung zufrieden.",
+    "anz": 6,
+    "p": 60,
+    "label_n": "60%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223d",
+    "vals": "stimmt eher",
+    "label_short": "Insgesamt bin ich mit dem Angebot meiner Schule zur beruflichen Orientierung zufrieden.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "B223d",
+    "vals": "stimmt gar nicht",
+    "label_short": "Insgesamt bin ich mit dem Angebot meiner Schule zur beruflichen Orientierung zufrieden.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B22"
+  },
+  {
+    "vars": "A111A",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft bekommt mit, was in der Klasse alles passiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft bekommt mit, was in der Klasse alles passiert.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111A",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft bekommt mit, was in der Klasse alles passiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft bekommt mit, was in der Klasse alles passiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft bekommt mit, was in der Klasse alles passiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft bekommt mit, was in der Klasse alles passiert.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111B",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft schafft es schnell, mich wieder einzubeziehen, wenn ich mal nicht aufpasse.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft schafft es schnell, mich wieder einzubeziehen, wenn ich mal nicht aufpasse.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111B",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft schafft es schnell, mich wieder einzubeziehen, wenn ich mal nicht aufpasse.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111B",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft schafft es schnell, mich wieder einzubeziehen, wenn ich mal nicht aufpasse.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111C",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft kann sich in unserer Klasse durchsetzen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111C",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft kann sich in unserer Klasse durchsetzen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111C",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft kann sich in unserer Klasse durchsetzen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111C",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft kann sich in unserer Klasse durchsetzen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111C",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft kann sich in unserer Klasse durchsetzen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111D",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft achtet sehr darauf, dass wir aufpassen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111D",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft achtet sehr darauf, dass wir aufpassen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111D",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft achtet sehr darauf, dass wir aufpassen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A111D",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft achtet sehr darauf, dass wir aufpassen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A11"
+  },
+  {
+    "vars": "A122",
+    "vals": "weiß nicht",
+    "label_short": "Der Unterricht beginnt pünktlich.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A122",
+    "vals": "stimmt ganz genau",
+    "label_short": "Der Unterricht beginnt pünktlich.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A122",
+    "vals": "stimmt eher",
+    "label_short": "Der Unterricht beginnt pünktlich.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A122",
+    "vals": "stimmt zum Teil",
+    "label_short": "Der Unterricht beginnt pünktlich.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A122",
+    "vals": "stimmt eher nicht",
+    "label_short": "Der Unterricht beginnt pünktlich.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A122",
+    "vals": "stimmt gar nicht",
+    "label_short": "Der Unterricht beginnt pünktlich.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123A",
+    "vals": "weiß nicht",
+    "label_short": "Im Unterricht wird keine Zeit vertrödelt.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123A",
+    "vals": "stimmt eher",
+    "label_short": "Im Unterricht wird keine Zeit vertrödelt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Im Unterricht wird keine Zeit vertrödelt.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Im Unterricht wird keine Zeit vertrödelt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123B",
+    "vals": "weiß nicht",
+    "label_short": "Es wird fast immer konzentriert gearbeitet.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123B",
+    "vals": "stimmt ganz genau",
+    "label_short": "Es wird fast immer konzentriert gearbeitet.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123B",
+    "vals": "stimmt eher",
+    "label_short": "Es wird fast immer konzentriert gearbeitet.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A123B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Es wird fast immer konzentriert gearbeitet.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A12"
+  },
+  {
+    "vars": "A133A",
+    "vals": "stimmt ganz genau",
+    "label_short": "In diesem Unterricht fühle ich mich wohl.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A133A",
+    "vals": "stimmt eher",
+    "label_short": "In diesem Unterricht fühle ich mich wohl.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A133A",
+    "vals": "stimmt eher nicht",
+    "label_short": "In diesem Unterricht fühle ich mich wohl.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A133A",
+    "vals": "stimmt gar nicht",
+    "label_short": "In diesem Unterricht fühle ich mich wohl.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A133B",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft behandelt mich fair.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A133B",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft behandelt mich fair.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A133B",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft behandelt mich fair.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A133B",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft behandelt mich fair.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A13"
+  },
+  {
+    "vars": "A431",
+    "vals": "weiß nicht",
+    "label_short": "Wenn jemand etwas nicht schafft, macht die Lehrkraft Mut, es noch einmal zu versuchen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A431",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wenn jemand etwas nicht schafft, macht die Lehrkraft Mut, es noch einmal zu versuchen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A431",
+    "vals": "stimmt eher",
+    "label_short": "Wenn jemand etwas nicht schafft, macht die Lehrkraft Mut, es noch einmal zu versuchen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A431",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wenn jemand etwas nicht schafft, macht die Lehrkraft Mut, es noch einmal zu versuchen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A431",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wenn jemand etwas nicht schafft, macht die Lehrkraft Mut, es noch einmal zu versuchen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A431",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wenn jemand etwas nicht schafft, macht die Lehrkraft Mut, es noch einmal zu versuchen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A432",
+    "vals": "weiß nicht",
+    "label_short": "Im Unterricht wird niemand ausgelacht, der einen Fehler macht.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A432",
+    "vals": "stimmt ganz genau",
+    "label_short": "Im Unterricht wird niemand ausgelacht, der einen Fehler macht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A432",
+    "vals": "stimmt eher",
+    "label_short": "Im Unterricht wird niemand ausgelacht, der einen Fehler macht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A432",
+    "vals": "stimmt zum Teil",
+    "label_short": "Im Unterricht wird niemand ausgelacht, der einen Fehler macht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A432",
+    "vals": "stimmt gar nicht",
+    "label_short": "Im Unterricht wird niemand ausgelacht, der einen Fehler macht.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A433",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft gibt mir Möglichkeiten einzuschätzen, was ich gut kann und was nicht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A433",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft gibt mir Möglichkeiten einzuschätzen, was ich gut kann und was nicht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A433",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft gibt mir Möglichkeiten einzuschätzen, was ich gut kann und was nicht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A433",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft gibt mir Möglichkeiten einzuschätzen, was ich gut kann und was nicht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A433",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft gibt mir Möglichkeiten einzuschätzen, was ich gut kann und was nicht.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A43"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A52"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft ist für mich über E-Mail oder unsere Lernplattform erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A526W255B",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft gibt mir auch auf digit. Weg regelm. Rückmeldung zu meinen Aufgaben.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "weiß nicht",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt ganz genau",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt eher",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt zum Teil",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt eher nicht",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "weiß nicht",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt ganz genau",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt eher",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt zum Teil",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt eher nicht",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt gar nicht",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W25"
+  },
+  {
+    "vars": "A211A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft sagt uns, worauf es in der Unterrichtsstunde besonders ankommt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211A",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft sagt uns, worauf es in der Unterrichtsstunde besonders ankommt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft sagt uns, worauf es in der Unterrichtsstunde besonders ankommt.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft sagt uns, worauf es in der Unterrichtsstunde besonders ankommt.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft sagt uns, worauf es in der Unterrichtsstunde besonders ankommt.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211B",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich weiß genau, was ich in der Unterrichtsstunde lernen soll.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211B",
+    "vals": "stimmt eher",
+    "label_short": "Ich weiß genau, was ich in der Unterrichtsstunde lernen soll.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich weiß genau, was ich in der Unterrichtsstunde lernen soll.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A211B",
+    "vals": "stimmt gar nicht",
+    "label_short": "Ich weiß genau, was ich in der Unterrichtsstunde lernen soll.",
+    "anz": 5,
+    "p": 50,
+    "label_n": "50%",
+    "set": "set01",
+    "plot_name": "A21"
+  },
+  {
+    "vars": "A221A",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft drückt sich immer verständlich aus.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221A",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft drückt sich immer verständlich aus.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221A",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft drückt sich immer verständlich aus.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221A",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft drückt sich immer verständlich aus.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221A",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft drückt sich immer verständlich aus.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221A",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft drückt sich immer verständlich aus.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221B",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft kann auch schwierige Zusammenhänge gut erklären.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221B",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft kann auch schwierige Zusammenhänge gut erklären.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221B",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft kann auch schwierige Zusammenhänge gut erklären.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221B",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft kann auch schwierige Zusammenhänge gut erklären.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221B",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft kann auch schwierige Zusammenhänge gut erklären.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A221B",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft kann auch schwierige Zusammenhänge gut erklären.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A22"
+  },
+  {
+    "vars": "A642",
+    "vals": "weiß nicht",
+    "label_short": "Unsere Lehrkraft bespricht mit uns die Hausaufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A642",
+    "vals": "stimmt ganz genau",
+    "label_short": "Unsere Lehrkraft bespricht mit uns die Hausaufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A642",
+    "vals": "stimmt zum Teil",
+    "label_short": "Unsere Lehrkraft bespricht mit uns die Hausaufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A642",
+    "vals": "stimmt eher nicht",
+    "label_short": "Unsere Lehrkraft bespricht mit uns die Hausaufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A642",
+    "vals": "stimmt gar nicht",
+    "label_short": "Unsere Lehrkraft bespricht mit uns die Hausaufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A643",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft fasst am Ende der Stunde das Wichtigste zusammen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A643",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft fasst am Ende der Stunde das Wichtigste zusammen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A643",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft fasst am Ende der Stunde das Wichtigste zusammen.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A643",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft fasst am Ende der Stunde das Wichtigste zusammen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A643",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft fasst am Ende der Stunde das Wichtigste zusammen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A644",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft wiederholt regelmäßig den U-stoff, den wir früher schon mal durchgenommen haben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A644",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft wiederholt regelmäßig den U-stoff, den wir früher schon mal durchgenommen haben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A644",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft wiederholt regelmäßig den U-stoff, den wir früher schon mal durchgenommen haben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A644",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft wiederholt regelmäßig den U-stoff, den wir früher schon mal durchgenommen haben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A644",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft wiederholt regelmäßig den U-stoff, den wir früher schon mal durchgenommen haben.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A644",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft wiederholt regelmäßig den U-stoff, den wir früher schon mal durchgenommen haben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A64"
+  },
+  {
+    "vars": "A611",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft erklärt uns, wie alte und neue Themen miteinander zusammenhängen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A61"
+  },
+  {
+    "vars": "A611",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft erklärt uns, wie alte und neue Themen miteinander zusammenhängen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A61"
+  },
+  {
+    "vars": "A611",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft erklärt uns, wie alte und neue Themen miteinander zusammenhängen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A61"
+  },
+  {
+    "vars": "A611",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft erklärt uns, wie alte und neue Themen miteinander zusammenhängen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A61"
+  },
+  {
+    "vars": "A611",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft erklärt uns, wie alte und neue Themen miteinander zusammenhängen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A61"
+  },
+  {
+    "vars": "A422",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft nimmt oft ein Beispiel aus dem täglichen Leben, um etwas zu erklären.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A42"
+  },
+  {
+    "vars": "A422",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft nimmt oft ein Beispiel aus dem täglichen Leben, um etwas zu erklären.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A42"
+  },
+  {
+    "vars": "A422",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft nimmt oft ein Beispiel aus dem täglichen Leben, um etwas zu erklären.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A42"
+  },
+  {
+    "vars": "A422",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft nimmt oft ein Beispiel aus dem täglichen Leben, um etwas zu erklären.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A42"
+  },
+  {
+    "vars": "A422",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft nimmt oft ein Beispiel aus dem täglichen Leben, um etwas zu erklären.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A42"
+  },
+  {
+    "vars": "A411",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft hört sich meine Vorschläge an und nimmt sie ernst.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A41"
+  },
+  {
+    "vars": "A411",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft hört sich meine Vorschläge an und nimmt sie ernst.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A41"
+  },
+  {
+    "vars": "A411",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft hört sich meine Vorschläge an und nimmt sie ernst.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A41"
+  },
+  {
+    "vars": "A411",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft hört sich meine Vorschläge an und nimmt sie ernst.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A41"
+  },
+  {
+    "vars": "A411",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft hört sich meine Vorschläge an und nimmt sie ernst.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A41"
+  },
+  {
+    "vars": "A532",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkraft lässt uns mitbestimmen, ob wir alleine oder mit anderen arbeiten wollen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A532",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkraft lässt uns mitbestimmen, ob wir alleine oder mit anderen arbeiten wollen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A532",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkraft lässt uns mitbestimmen, ob wir alleine oder mit anderen arbeiten wollen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A532",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkraft lässt uns mitbestimmen, ob wir alleine oder mit anderen arbeiten wollen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A532",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkraft lässt uns mitbestimmen, ob wir alleine oder mit anderen arbeiten wollen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A532",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkraft lässt uns mitbestimmen, ob wir alleine oder mit anderen arbeiten wollen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A533",
+    "vals": "weiß nicht",
+    "label_short": "Ich darf selbst entscheiden, wie ich eine Aufgabe oder ein Thema bearbeite.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A533",
+    "vals": "stimmt ganz genau",
+    "label_short": "Ich darf selbst entscheiden, wie ich eine Aufgabe oder ein Thema bearbeite.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A533",
+    "vals": "stimmt eher",
+    "label_short": "Ich darf selbst entscheiden, wie ich eine Aufgabe oder ein Thema bearbeite.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A533",
+    "vals": "stimmt zum Teil",
+    "label_short": "Ich darf selbst entscheiden, wie ich eine Aufgabe oder ein Thema bearbeite.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A533",
+    "vals": "stimmt gar nicht",
+    "label_short": "Ich darf selbst entscheiden, wie ich eine Aufgabe oder ein Thema bearbeite.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "weiß nicht",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt ganz genau",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt eher",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt zum Teil",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254a",
+    "vals": "stimmt eher nicht",
+    "label_short": "LK gibt uns Aufgaben auf digitalem Weg , die ich selbstständig bearbeiten kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "weiß nicht",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt ganz genau",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt eher",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt zum Teil",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt eher nicht",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A535W254b",
+    "vals": "stimmt gar nicht",
+    "label_short": "LK stellt auf digit. Weg Lösungen zur Verf., mit denen ich meine Leistung selbst überprüfen kann.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A53"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "weiß nicht",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A51"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A51"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt eher",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A51"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A51"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A51"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A51"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "weiß nicht",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W14"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W14"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt eher",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W14"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W14"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W14"
+  },
+  {
+    "vars": "A515W143",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir bekommen manchmal unterschiedlich schwere Aufgaben.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W14"
+  },
+  {
+    "vars": "Z1S",
+    "vals": "weiß nicht",
+    "label_short": "Mit dem Unterricht bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z1S",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit dem Unterricht bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z1S",
+    "vals": "eher zufrieden",
+    "label_short": "Mit dem Unterricht bin ich …",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z1S",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit dem Unterricht bin ich …",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z1S",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit dem Unterricht bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z2S",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit den Möglichkeiten mitzubestimmen und mich einzubringen bin ich ...",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z2S",
+    "vals": "eher zufrieden",
+    "label_short": "Mit den Möglichkeiten mitzubestimmen und mich einzubringen bin ich ...",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z2S",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit den Möglichkeiten mitzubestimmen und mich einzubringen bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z2S",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit den Möglichkeiten mitzubestimmen und mich einzubringen bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z3S",
+    "vals": "weiß nicht",
+    "label_short": "Mit den Wahlmöglichkeiten und Nachmittagsangeboten bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z3S",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit den Wahlmöglichkeiten und Nachmittagsangeboten bin ich …",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z3S",
+    "vals": "eher zufrieden",
+    "label_short": "Mit den Wahlmöglichkeiten und Nachmittagsangeboten bin ich …",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z3S",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit den Wahlmöglichkeiten und Nachmittagsangeboten bin ich …",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z4S",
+    "vals": "weiß nicht",
+    "label_short": "Mit dem sozialen Miteinander an der Schule bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z4S",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit dem sozialen Miteinander an der Schule bin ich …",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z4S",
+    "vals": "eher zufrieden",
+    "label_short": "Mit dem sozialen Miteinander an der Schule bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z4S",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit dem sozialen Miteinander an der Schule bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z4S",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit dem sozialen Miteinander an der Schule bin ich …",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z5S",
+    "vals": "weiß nicht",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z5S",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z5S",
+    "vals": "eher zufrieden",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZS"
+  },
+  {
+    "vars": "Z5S",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZS"
+  }
+]

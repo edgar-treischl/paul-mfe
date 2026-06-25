@@ -1,0 +1,59 @@
+/**
+ * Top Back Button Styles
+ * Subtle back button positioned above main content
+ */
+
+.paul-mfe__top-back-container {
+  padding: 1rem 1.5rem 0;
+}
+
+.paul-mfe__top-back-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  color: var(--class-retention-text);
+  opacity: 0.6;
+  transition: all 0.2s ease;
+
+  &:hover {
+    opacity: 1;
+    color: var(--class-retention-accent);
+  }
+
+  &:active {
+    transform: scale(0.97);
+  }
+}
+
+.paul-mfe__top-back-arrow {
+  font-size: 1rem;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.paul-mfe__top-back-label {
+  display: inline;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .paul-mfe__top-back-container {
+    padding: 0.75rem 1rem 0;
+  }
+
+  .paul-mfe__top-back-button {
+    padding: 0.3rem 0.5rem;
+    font-size: 0.85rem;
+  }
+
+  .paul-mfe__top-back-arrow {
+    font-size: 0.9rem;
+  }
+}

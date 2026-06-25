@@ -1,0 +1,1482 @@
+[
+  {
+    "vars": "B131W124E",
+    "vals": "weiß nicht",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124E",
+    "vals": "stimmt ganz genau",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124E",
+    "vals": "stimmt eher",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124E",
+    "vals": "stimmt zum Teil",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132a",
+    "vals": "weiß nicht",
+    "label_short": "Sohn/meine Tochter fühlt sich an der Schule wohl.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132a",
+    "vals": "stimmt eher",
+    "label_short": "Sohn/meine Tochter fühlt sich an der Schule wohl.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132a",
+    "vals": "stimmt zum Teil",
+    "label_short": "Sohn/meine Tochter fühlt sich an der Schule wohl.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132a",
+    "vals": "stimmt eher nicht",
+    "label_short": "Sohn/meine Tochter fühlt sich an der Schule wohl.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Sohn/meine Tochter fühlt sich an der Schule wohl.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132c",
+    "vals": "weiß nicht",
+    "label_short": "Die Räume der Schule bieten eine angenehme Lernumgebung.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132c",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Räume der Schule bieten eine angenehme Lernumgebung.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132c",
+    "vals": "stimmt eher",
+    "label_short": "Die Räume der Schule bieten eine angenehme Lernumgebung.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132c",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Räume der Schule bieten eine angenehme Lernumgebung.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B132c",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Räume der Schule bieten eine angenehme Lernumgebung.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133b",
+    "vals": "weiß nicht",
+    "label_short": "Die Schule ist ein sicherer Ort.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Schule ist ein sicherer Ort.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133b",
+    "vals": "stimmt eher",
+    "label_short": "Die Schule ist ein sicherer Ort.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Schule ist ein sicherer Ort.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133b",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Schule ist ein sicherer Ort.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B133b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Schule ist ein sicherer Ort.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B13"
+  },
+  {
+    "vars": "B131W124E",
+    "vals": "weiß nicht",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124E",
+    "vals": "stimmt ganz genau",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124E",
+    "vals": "stimmt eher",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B131W124E",
+    "vals": "stimmt zum Teil",
+    "label_short": "An dieser Schule herrscht ein freundlicher Umgangston.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "weiß nicht",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt ganz genau",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt eher",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt zum Teil",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt gar nicht",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "weiß nicht",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt eher",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W12"
+  },
+  {
+    "vars": "B333",
+    "vals": "weiß nicht",
+    "label_short": "Sohn/Tochter lernt an dieser Schule, mit Konflikten angemessen umzugehen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B333",
+    "vals": "stimmt ganz genau",
+    "label_short": "Sohn/Tochter lernt an dieser Schule, mit Konflikten angemessen umzugehen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B333",
+    "vals": "stimmt zum Teil",
+    "label_short": "Sohn/Tochter lernt an dieser Schule, mit Konflikten angemessen umzugehen.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B333",
+    "vals": "stimmt eher nicht",
+    "label_short": "Sohn/Tochter lernt an dieser Schule, mit Konflikten angemessen umzugehen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "weiß nicht",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt ganz genau",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt eher",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt zum Teil",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125a",
+    "vals": "stimmt gar nicht",
+    "label_short": "An dieser Schule wird konsequent gegen Ausgrenzung und Mobbing vorgegangen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "weiß nicht",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt eher",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "B334W125b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wenn es Konflikte gibt, trägt die Schule zu einer schnellen Lösung bei.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "B33"
+  },
+  {
+    "vars": "A631",
+    "vals": "weiß nicht",
+    "label_short": "Sohn/Tochter lernt , wie man zuhause Aufgaben f. d. Schule selbstständig organisiert.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631",
+    "vals": "stimmt ganz genau",
+    "label_short": "Sohn/Tochter lernt , wie man zuhause Aufgaben f. d. Schule selbstständig organisiert.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631",
+    "vals": "stimmt eher",
+    "label_short": "Sohn/Tochter lernt , wie man zuhause Aufgaben f. d. Schule selbstständig organisiert.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "A631",
+    "vals": "stimmt gar nicht",
+    "label_short": "Sohn/Tochter lernt , wie man zuhause Aufgaben f. d. Schule selbstständig organisiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "A63"
+  },
+  {
+    "vars": "C111b",
+    "vals": "weiß nicht",
+    "label_short": "Wenn wir Anliegen oder Fragen haben, werden diese zuverlässig und zügig von der Schule beantwortet.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "C11"
+  },
+  {
+    "vars": "C111b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wenn wir Anliegen oder Fragen haben, werden diese zuverlässig und zügig von der Schule beantwortet.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "C11"
+  },
+  {
+    "vars": "C111b",
+    "vals": "stimmt eher",
+    "label_short": "Wenn wir Anliegen oder Fragen haben, werden diese zuverlässig und zügig von der Schule beantwortet.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "C11"
+  },
+  {
+    "vars": "C111b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wenn wir Anliegen oder Fragen haben, werden diese zuverlässig und zügig von der Schule beantwortet.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "C11"
+  },
+  {
+    "vars": "C111b",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wenn wir Anliegen oder Fragen haben, werden diese zuverlässig und zügig von der Schule beantwortet.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "C11"
+  },
+  {
+    "vars": "D311a",
+    "vals": "weiß nicht",
+    "label_short": "Wir werden von der Schule rechtzeitig und umfassend über schul. Angelegenheiten informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311a",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir werden von der Schule rechtzeitig und umfassend über schul. Angelegenheiten informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311a",
+    "vals": "stimmt eher",
+    "label_short": "Wir werden von der Schule rechtzeitig und umfassend über schul. Angelegenheiten informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311a",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir werden von der Schule rechtzeitig und umfassend über schul. Angelegenheiten informiert.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir werden von der Schule rechtzeitig und umfassend über schul. Angelegenheiten informiert.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311b",
+    "vals": "stimmt eher",
+    "label_short": "Wir werden über die an der Schule geltenden Regeln informiert.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir werden über die an der Schule geltenden Regeln informiert.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311b",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir werden über die an der Schule geltenden Regeln informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D311b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir werden über die an der Schule geltenden Regeln informiert.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "weiß nicht",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt eher",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt eher",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt eher",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 5,
+    "p": 50,
+    "label_n": "50%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314a",
+    "vals": "weiß nicht",
+    "label_short": "Wir können uns am Schulleben aktiv beteiligen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314a",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir können uns am Schulleben aktiv beteiligen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314a",
+    "vals": "stimmt eher",
+    "label_short": "Wir können uns am Schulleben aktiv beteiligen.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314a",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir können uns am Schulleben aktiv beteiligen.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir können uns am Schulleben aktiv beteiligen.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314b",
+    "vals": "weiß nicht",
+    "label_short": "Die Schule ist offen für die Ideen der Eltern zur Gestaltung des Schullebens.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Schule ist offen für die Ideen der Eltern zur Gestaltung des Schullebens.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314b",
+    "vals": "stimmt eher",
+    "label_short": "Die Schule ist offen für die Ideen der Eltern zur Gestaltung des Schullebens.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Schule ist offen für die Ideen der Eltern zur Gestaltung des Schullebens.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314b",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Schule ist offen für die Ideen der Eltern zur Gestaltung des Schullebens.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D314b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Schule ist offen für die Ideen der Eltern zur Gestaltung des Schullebens.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D315",
+    "vals": "weiß nicht",
+    "label_short": "Die Lehrkräfte sind für einen regelmäßigen Austausch mit uns Eltern gut erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D315",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Lehrkräfte sind für einen regelmäßigen Austausch mit uns Eltern gut erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D315",
+    "vals": "stimmt eher",
+    "label_short": "Die Lehrkräfte sind für einen regelmäßigen Austausch mit uns Eltern gut erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D315",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Lehrkräfte sind für einen regelmäßigen Austausch mit uns Eltern gut erreichbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D315",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Lehrkräfte sind für einen regelmäßigen Austausch mit uns Eltern gut erreichbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D315",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Lehrkräfte sind für einen regelmäßigen Austausch mit uns Eltern gut erreichbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D31"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "weiß nicht",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt ganz genau",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt eher",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt zum Teil",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt eher nicht",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153a",
+    "vals": "stimmt gar nicht",
+    "label_short": "Die Leistungsbeurteilung ist für uns transparent und gut nachvollziehbar.",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt ganz genau",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt eher",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D312W153b",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir werden regelmäßig über die Lernfortschritte von Sohn/Tochter informiert.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt eher",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 5,
+    "p": 50,
+    "label_n": "50%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt zum Teil",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt eher nicht",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D313W154",
+    "vals": "stimmt gar nicht",
+    "label_short": "Wir werden informiert, wie wir Sohn/Tochter beim Lernen für die Schule am besten unterstützen können.",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "W15"
+  },
+  {
+    "vars": "D332",
+    "vals": "weiß nicht",
+    "label_short": "Schule bereitet Tochter/Sohn gut vor auf Übertritt an andere Schulen bzw. Übergang in Studium/Beruf",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D33"
+  },
+  {
+    "vars": "D332",
+    "vals": "stimmt ganz genau",
+    "label_short": "Schule bereitet Tochter/Sohn gut vor auf Übertritt an andere Schulen bzw. Übergang in Studium/Beruf",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D33"
+  },
+  {
+    "vars": "D332",
+    "vals": "stimmt zum Teil",
+    "label_short": "Schule bereitet Tochter/Sohn gut vor auf Übertritt an andere Schulen bzw. Übergang in Studium/Beruf",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set01",
+    "plot_name": "D33"
+  },
+  {
+    "vars": "D332",
+    "vals": "stimmt eher nicht",
+    "label_short": "Schule bereitet Tochter/Sohn gut vor auf Übertritt an andere Schulen bzw. Übergang in Studium/Beruf",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set01",
+    "plot_name": "D33"
+  },
+  {
+    "vars": "D332",
+    "vals": "stimmt gar nicht",
+    "label_short": "Schule bereitet Tochter/Sohn gut vor auf Übertritt an andere Schulen bzw. Übergang in Studium/Beruf",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set01",
+    "plot_name": "D33"
+  },
+  {
+    "vars": "Z1E",
+    "vals": "weiß nicht",
+    "label_short": "Mit der Unterstützung meines Sohnes/meiner Tochter beim Lernen bin ich ...",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z1E",
+    "vals": "eher zufrieden",
+    "label_short": "Mit der Unterstützung meines Sohnes/meiner Tochter beim Lernen bin ich ...",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z1E",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit der Unterstützung meines Sohnes/meiner Tochter beim Lernen bin ich ...",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z1E",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit der Unterstützung meines Sohnes/meiner Tochter beim Lernen bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z2E",
+    "vals": "weiß nicht",
+    "label_short": "Mit dem außerunterrichtlichen Angebot bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z2E",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit dem außerunterrichtlichen Angebot bin ich ...",
+    "anz": 5,
+    "p": 50,
+    "label_n": "50%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z2E",
+    "vals": "eher zufrieden",
+    "label_short": "Mit dem außerunterrichtlichen Angebot bin ich ...",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z2E",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit dem außerunterrichtlichen Angebot bin ich ...",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z3E",
+    "vals": "weiß nicht",
+    "label_short": "Mit der Ausstattung der Schule bin ich ...",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z3E",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit der Ausstattung der Schule bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z3E",
+    "vals": "eher zufrieden",
+    "label_short": "Mit der Ausstattung der Schule bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z3E",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit der Ausstattung der Schule bin ich ...",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z3E",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit der Ausstattung der Schule bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z4E",
+    "vals": "weiß nicht",
+    "label_short": "Mit dem Zustand der Räumlichkeiten bin ich ...",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z4E",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit dem Zustand der Räumlichkeiten bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z4E",
+    "vals": "eher zufrieden",
+    "label_short": "Mit dem Zustand der Räumlichkeiten bin ich ...",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z4E",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit dem Zustand der Räumlichkeiten bin ich ...",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z4E",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit dem Zustand der Räumlichkeiten bin ich ...",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z5E",
+    "vals": "weiß nicht",
+    "label_short": "Mit der Erreichbarkeit der Lehrkräfte bin ich ...",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z5E",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit der Erreichbarkeit der Lehrkräfte bin ich ...",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z5E",
+    "vals": "eher zufrieden",
+    "label_short": "Mit der Erreichbarkeit der Lehrkräfte bin ich ...",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z5E",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit der Erreichbarkeit der Lehrkräfte bin ich ...",
+    "anz": 4,
+    "p": 40,
+    "label_n": "40%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z6E",
+    "vals": "weiß nicht",
+    "label_short": "Mit der Art und Weise, wie ich von der Schule informiert werde, bin ich…",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z6E",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit der Art und Weise, wie ich von der Schule informiert werde, bin ich…",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z6E",
+    "vals": "eher zufrieden",
+    "label_short": "Mit der Art und Weise, wie ich von der Schule informiert werde, bin ich…",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z6E",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit der Art und Weise, wie ich von der Schule informiert werde, bin ich…",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z6E",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit der Art und Weise, wie ich von der Schule informiert werde, bin ich…",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z7E",
+    "vals": "weiß nicht",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 1,
+    "p": 10,
+    "label_n": "10%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z7E",
+    "vals": "sehr zufrieden",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 3,
+    "p": 30,
+    "label_n": "30%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z7E",
+    "vals": "eher zufrieden",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z7E",
+    "vals": "eher nicht zufrieden",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  },
+  {
+    "vars": "Z7E",
+    "vals": "gar nicht zufrieden",
+    "label_short": "Mit dieser Schule insgesamt bin ich …",
+    "anz": 2,
+    "p": 20,
+    "label_n": "20%",
+    "set": "set03",
+    "plot_name": "ZE"
+  }
+]

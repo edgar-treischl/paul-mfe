@@ -4,29 +4,33 @@ import type {
   AppState,
   ExampleDataItem,
 } from './types'
-import { logo } from './assets'
 import { StackedBarChart } from './components/StackedBarChart'
 import { LandingPage } from './pages/LandingPage'
+import { GroupSelector } from './components/GroupSelector'
+import { AppHeader } from './components/AppHeader'
+import { TopBackButton } from './components/TopBackButton'
 import { processExampleData, getAvailablePlots } from './dataProcessor'
+import { loadProcessedGroupData } from './dataLoader'
 import type { MetaHeader, MetaSet } from './iqb'
+import type { GroupId } from './groupRegistry'
 import exampleDataJson from './data/example_data.json'
 import metaHeadersJson from './data/meta_headers.json'
 import metaSetsJson from './data/meta_sets.json'
 
 function App() {
   const [showLanding, setShowLanding] = useState(true)
+  const [showGroupSelector, setShowGroupSelector] = useState(false)
   const [state, setState] = useState<AppState>({
     schoolData: null,
     selectedPlot: null,
     isLoading: false,
     isGeneratingReport: false,
     reportAvailable: false,
+    selectedGroup: null,
   })
 
   // Load example data on app startup
   useEffect(() => {
-    setState((prev) => ({ ...prev, isLoading: true }))
-    
     setTimeout(() => {
       // Load metadata
       const exampleData = exampleDataJson as ExampleDataItem[]
@@ -46,8 +50,7 @@ function App() {
         }
       })
 
-      setState((prev) => ({
-        ...prev,
+      setState({
         isLoading: false,
         schoolData: {
           name: 'Beispiel Daten',
@@ -55,16 +58,59 @@ function App() {
           plotData: plotDataMap,
         },
         selectedPlot: availablePlots[0] || null,
-      }))
+        isGeneratingReport: false,
+        reportAvailable: false,
+        selectedGroup: null,
+      })
     }, 500)
   }, [])
 
   const handleViewData = () => {
     setShowLanding(false)
+    setShowGroupSelector(true)
+  }
+
+  const handleSelectGroup = async (groupId: GroupId) => {
+    setState((prev) => ({ ...prev, isLoading: true, selectedGroup: groupId }))
+    
+    const metaHeaders = metaHeadersJson as MetaHeader[]
+    const metaSets = metaSetsJson as MetaSet[]
+    
+    try {
+      const groupData = await loadProcessedGroupData(groupId, metaHeaders, metaSets)
+      
+      if (groupData) {
+        setState((prev) => ({
+          ...prev,
+          isLoading: false,
+          schoolData: {
+            name: `Daten: ${groupData.groupName}`,
+            plots: groupData.plots,
+            plotData: groupData.plotData,
+          },
+          selectedPlot: groupData.availablePlots[0] || null,
+          selectedGroup: groupId,
+        }))
+        setShowLanding(false)
+        setShowGroupSelector(false)
+      } else {
+        setState((prev) => ({ ...prev, isLoading: false }))
+      }
+    } catch (error) {
+      console.error('Failed to load group data:', error)
+      setState((prev) => ({ ...prev, isLoading: false }))
+    }
   }
 
   const handleBackToLanding = () => {
     setShowLanding(true)
+    setShowGroupSelector(false)
+    setState((prev) => ({ ...prev, selectedGroup: null }))
+  }
+
+  const handleBackToGroupSelector = () => {
+    setShowGroupSelector(true)
+    setState((prev) => ({ ...prev, selectedGroup: null }))
   }
 
   const handleGenerateReport = () => {
@@ -88,21 +134,12 @@ function App() {
     <>
       {showLanding ? (
         <LandingPage onViewData={handleViewData} />
+      ) : showGroupSelector ? (
+        <GroupSelector onSelectGroup={handleSelectGroup} onBack={handleBackToLanding} />
       ) : (
         <div className="paul-mfe paul-mfe__app-container">
-          <div className="paul-mfe__app-header">
-            <div className="paul-mfe__header-content">
-              <div className="paul-mfe__header-left">
-                <button 
-                  onClick={handleBackToLanding}
-                  className="paul-mfe__header-logo-button"
-                  aria-label="Back to landing page"
-                >
-                  <img src={logo} alt="Paul App" className="paul-mfe__header-logo" />
-                </button>
-              </div>
-            </div>
-          </div>
+          <AppHeader onLogoClick={handleBackToLanding} />
+          <TopBackButton onBackClick={handleBackToGroupSelector} label="Zurück" />
 
           <div className="paul-mfe__data-viewer">
             <div className="paul-mfe__data-viewer-layout">

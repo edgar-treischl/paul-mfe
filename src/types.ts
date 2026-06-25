@@ -46,6 +46,7 @@ export interface AppState {
   isLoading: boolean;
   isGeneratingReport: boolean;
   reportAvailable: boolean;
+  selectedGroup: string | null;
 }
 
 export const AUDIENCE_OPTIONS = [
