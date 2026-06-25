@@ -61,7 +61,6 @@ export function StackedBarChart({
     <div className="chart-wrapper">
       <div ref={chartRef} className="stacked-bar-chart">
         <div className="chart-headers">
-          <h2 className="chart-header1">{header1}</h2>
           <h3 className="chart-header2">{header2}</h3>
         </div>
 

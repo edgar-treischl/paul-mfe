@@ -61,11 +61,6 @@ export function DataViewerPage({
           {/* Main Content */}
           <div className="paul-mfe__data-viewer-main">
             <div className="paul-mfe__card">
-              <div className="paul-mfe__card-header">
-                <h2 className="paul-mfe__data-viewer-title">
-                  {state.schoolData?.name || 'Preview Panel'}
-                </h2>
-              </div>
               <div className="paul-mfe__card-body">
                 <PlotViewer state={state} />
               </div>
@@ -113,6 +108,9 @@ function PlotViewer({ state }: PlotViewerProps) {
 
   return (
     <div className="plot-content">
+      <h2 className="paul-mfe__data-viewer-title">
+        {plotData.header1}
+      </h2>
       <StackedBarChart
         groups={plotData.groups}
         metaSets={metaSets.filter(m => m.set === plotData.set)}
