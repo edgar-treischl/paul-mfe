@@ -1,2 +1,2 @@
 // src/assets.ts
-export const logo = new URL('./assets/paul.png', import.meta.url).href;
+export const logo = new URL('./assets/oes.png', import.meta.url).href;
