@@ -17,13 +17,11 @@ export interface PlotDescription {
 }
 
 /**
- * Extract description text from markdown (removes header and blank lines)
+ * Extract description text from markdown (keeps full markdown including header)
  */
 function extractDescriptionFromMarkdown(markdown: string): string {
-  // Remove the first line (# Title) and following blank line
-  const lines = markdown.split('\n')
-  // Skip the header line and first blank line
-  return lines.slice(2).join('\n').trim()
+  // Return the full markdown content including the header
+  return markdown.trim()
 }
 
 /**

@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import heroPng from '../assets/paul.png';
+import heroPng from '../assets/oes.png';
 
 interface HeroViewProps {
   onCTA?: () => void;
@@ -30,12 +30,8 @@ function HeroViewComponent({ onCTA }: HeroViewProps) {
 
         <div className="paul-mfe__hero-features">
           <div className="paul-mfe__feature">
-            <strong>Umfang:</strong>
-            <span>Gesamtauswertung</span>
-          </div>
-          <div className="paul-mfe__feature">
-            <strong>Datenquelle:</strong>
-            <span>Schuleebene</span>
+            <strong>Hinweis:</strong>
+            <span>Diese App enthält nur fiktive Beispieldaten.</span>
           </div>
         </div>
 

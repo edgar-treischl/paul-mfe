@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import ReactMarkdown from 'react-markdown'
 import './DataDescriptionSection.css'
 
 interface DataDescriptionSectionProps {
@@ -22,7 +23,7 @@ export function DataDescriptionSection({ description }: DataDescriptionSectionPr
 
       {isOpen && (
         <div className="paul-mfe__data-description-content">
-          {description}
+          <ReactMarkdown>{description}</ReactMarkdown>
         </div>
       )}
     </div>
