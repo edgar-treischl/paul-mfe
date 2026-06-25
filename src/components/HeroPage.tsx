@@ -1,17 +1,19 @@
 import { memo } from 'react'
-import heroPng from '../lib/utils/assets/oes.png';
 
 interface HeroViewProps {
   onCTA?: () => void;
 }
 
 function HeroViewComponent({ onCTA }: HeroViewProps) {
+  // Resolve asset path relative to this module for Module Federation compatibility
+  const logoSrc = new URL('../lib/utils/assets/oes.png', import.meta.url).href;
+
   return (
     <div className="paul-mfe__hero-container">
       {/* Left Side: Logo and Tagline */}
       <div className="paul-mfe__hero-left">
         <div className="paul-mfe__hero-logo-wrapper">
-          <img src={heroPng} alt="Paul" className="paul-mfe__hero-logo" />
+          <img src={logoSrc} alt="Paul" className="paul-mfe__hero-logo" />
         </div>
         <p className="paul-mfe__hero-tagline">Online Evaluation System</p>
       </div>
