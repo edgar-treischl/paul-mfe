@@ -1,0 +1,114 @@
+.paul-mfe__description-container {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 20px;
+  align-items: stretch;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.paul-mfe__data-description-section {
+  grid-column: 1 / -1;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.paul-mfe__data-description-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--class-retention-surface);
+  border: 1px solid var(--class-retention-border);
+  border-radius: 0.6rem;
+  padding: 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+  color: var(--class-retention-text);
+  transition: all 0.2s ease;
+  text-align: left;
+  font-weight: 500;
+  width: 100%;
+}
+
+.paul-mfe__data-description-toggle:hover {
+  background: #f8f9fa;
+  border-color: var(--class-retention-accent);
+  color: var(--class-retention-heading);
+  box-shadow: 0 2px 4px rgba(0, 141, 201, 0.08);
+}
+
+.paul-mfe__data-description-toggle:focus-visible {
+  outline: 2px solid var(--class-retention-accent);
+  outline-offset: 2px;
+}
+
+.paul-mfe__data-description-toggle-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.6rem;
+  transition: transform 0.3s ease;
+  flex-shrink: 0;
+  color: var(--class-retention-accent);
+  width: 1rem;
+  height: 1rem;
+}
+
+.paul-mfe__data-description-toggle.open .paul-mfe__data-description-toggle-icon {
+  transform: rotate(180deg);
+}
+
+.paul-mfe__data-description-toggle-text {
+  font-weight: 500;
+  color: var(--class-retention-text);
+  flex: 1;
+}
+
+.paul-mfe__data-description-content {
+  border: 1px solid var(--class-retention-border);
+  border-top: none;
+  border-radius: 0 0 0.6rem 0.6rem;
+  padding: 1.5rem;
+  color: var(--class-retention-text);
+  font-size: 1rem;
+  line-height: 1.7;
+  animation: slideDownSmooth 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background: var(--class-retention-surface);
+  max-height: 500px;
+  overflow-y: auto;
+  word-break: break-word;
+  white-space: pre-wrap;
+  width: 100%;
+}
+
+@keyframes slideDownSmooth {
+  from {
+    opacity: 0;
+    max-height: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    max-height: 500px;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .paul-mfe__description-container {
+    grid-template-columns: 1fr;
+  }
+
+  .paul-mfe__data-description-toggle {
+    padding: 0.85rem;
+    font-size: 0.95rem;
+  }
+
+  .paul-mfe__data-description-content {
+    padding: 1.25rem;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+}

@@ -3,6 +3,9 @@ import { AppHeader } from '../components/AppHeader'
 import { TopBackButton } from '../components/TopBackButton'
 import { PlotList } from '../components/PlotList'
 import { ReportSection } from '../components/ReportSection'
+import { DataHeaderSection } from '../components/DataHeaderSection'
+import { DataDescriptionSection } from '../components/DataDescriptionSection'
+import { getPlotDescriptionText } from '../plotDescriptionRegistry'
 import type { AppState } from '../types'
 import type { MetaSet } from '../iqb'
 import metaSetsJson from '../data/meta_sets.json'
@@ -30,6 +33,16 @@ export function DataViewerPage({
       <TopBackButton onBackClick={onBackClick} label="Zurück" />
 
       <div className="paul-mfe__data-viewer">
+        {/* Hero Header - Full Width Title */}
+        {state.schoolData && state.selectedPlot && state.schoolData.plotData && (() => {
+          const plotData = state.schoolData.plotData.get(state.selectedPlot)
+          return plotData ? (
+            <div className="paul-mfe__hero-header">
+              <DataHeaderSection title={plotData.header1} />
+            </div>
+          ) : null
+        })()}
+
         <div className="paul-mfe__data-viewer-layout">
           {/* Left Sidebar */}
           <div className="paul-mfe__data-viewer-sidebar">
@@ -67,6 +80,16 @@ export function DataViewerPage({
             </div>
           </div>
         </div>
+
+        {/* Description Section - Below Both Components, Full Width */}
+        {state.schoolData && state.selectedPlot && (() => {
+          const description = getPlotDescriptionText(state.selectedPlot)
+          return (
+            <div className="paul-mfe__description-container">
+              <DataDescriptionSection description={description || `Keine zusätzlichen Informationen für Plot ${state.selectedPlot} verfügbar.`} />
+            </div>
+          )
+        })()}
       </div>
     </div>
   )
@@ -108,9 +131,6 @@ function PlotViewer({ state }: PlotViewerProps) {
 
   return (
     <div className="plot-content">
-      <h2 className="paul-mfe__data-viewer-title">
-        {plotData.header1}
-      </h2>
       <StackedBarChart
         groups={plotData.groups}
         metaSets={metaSets.filter(m => m.set === plotData.set)}
