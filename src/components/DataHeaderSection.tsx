@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './DataHeaderSection.css'
 
 interface DataHeaderSectionProps {

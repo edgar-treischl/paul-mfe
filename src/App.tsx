@@ -29,10 +29,6 @@ function App() {
   })
 
   // Load example data on app startup
-  useEffect(() => {
-    initializeAppData()
-  }, [])
-
   const initializeAppData = () => {
     setTimeout(() => {
       const exampleData = exampleDataJson as ExampleDataItem[]
@@ -63,6 +59,11 @@ function App() {
       })
     }, 500)
   }
+
+  // Load example data on app startup
+  useEffect(() => {
+    initializeAppData()
+  }, [])
 
   // Navigation handlers
   const handleGoToGroupSelector = () => {

@@ -16,7 +16,6 @@ export function StackedBarChart({
   groups, 
   metaSets, 
   plotName,
-  header1,
   header2,
   showLegend = true 
 }: StackedBarChartProps) {
