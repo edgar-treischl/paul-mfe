@@ -11,10 +11,10 @@ export default defineConfig(({ mode }) => ({
   plugins: [
     react(),
     federation({
-      name: 'paul-mfe',
+      name: 'oes-mfe',
       filename: 'remoteEntry.js',
       exposes: {
-        './PaulApp': './src/App.tsx',
+        './OESApp': './src/App.tsx',
       },
       shared: ['react', 'react-dom'],
     }),
