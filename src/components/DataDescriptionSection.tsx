@@ -18,7 +18,7 @@ export function DataDescriptionSection({ description }: DataDescriptionSectionPr
         aria-label="Toggle description"
       >
         <span className="paul-mfe__data-description-toggle-icon">▼</span>
-        <span className="paul-mfe__data-description-toggle-text">Weitere Informationen</span>
+        <span className="paul-mfe__data-description-toggle-text">Einordnung im Qualitätstableau:</span>
       </button>
 
       {isOpen && (

@@ -127,7 +127,7 @@
 }
 
 /* Button styling */
-.paul-mfe__btn-cta {
+.paul-mfe__hero-cta.paul-mfe__btn-cta {
   padding: 16px 40px;
   font-size: 16px;
   font-weight: 600;
