@@ -1,37 +1,49 @@
 import { memo } from 'react'
 import heroPng from '../assets/paul.png';
 
-function HeroViewComponent() {
+interface HeroViewProps {
+  onCTA?: () => void;
+}
+
+function HeroViewComponent({ onCTA }: HeroViewProps) {
   return (
     <div className="paul-mfe__hero-container">
-      <div className="paul-mfe__hero-content">
-        <div className="paul-mfe__hero-text">
-          <p className="paul-mfe__eyebrow">Passgenaue Umfragen mit Limesurvey®</p>
-          <h1>
-            <span className="paul-mfe__hero-highlight">Paul</span>
-          </h1>
-          <p>
-           Paul ermöglicht maßgeschneiderte Umfragen, die auf die Bedürfnisse der Schule zugeschnitten sind. 
-          </p>
+      {/* Left Side: Logo and Tagline */}
+      <div className="paul-mfe__hero-left">
+        <div className="paul-mfe__hero-logo-wrapper">
+          <img src={heroPng} alt="Paul" className="paul-mfe__hero-logo" />
+        </div>
+        <p className="paul-mfe__hero-tagline">Passgenaue Umfragen mit Limesurvey®</p>
+      </div>
+      
+      {/* Right Side: Description and CTA */}
+      <div className="paul-mfe__hero-right">
+        <h1 className="paul-mfe__hero-title">Umfrageergebnisse erfolgreich visualisieren</h1>
+        
+        <p className="paul-mfe__hero-primary">
+          Paul ermöglicht maßgeschneiderte Umfragen, die auf die Bedürfnisse der Schule zugeschnitten sind.
+        </p>
 
-          <p>
-            Die Paul-App bereitet die Umfrageergebnisse auf und stellt sie in einer übersichtlichen Form dar.
-          </p>
+        <p className="paul-mfe__hero-secondary">
+          Die Paul-App bereitet die Umfrageergebnisse auf und stellt sie in einer übersichtlichen Form dar.
+        </p>
 
-          <div className="paul-mfe__hero-features">
-            <div className="paul-mfe__feature">
-              <strong>Umfang bislang:</strong>
-              <p>Gesamtauswertung</p>
-            </div>
-            <div className="paul-mfe__feature">
-              <strong>Quelle</strong>
-              <p>Schuleebene</p>
-            </div>
+        <div className="paul-mfe__hero-features">
+          <div className="paul-mfe__feature">
+            <strong>Umfang:</strong>
+            <span>Gesamtauswertung</span>
+          </div>
+          <div className="paul-mfe__feature">
+            <strong>Datenquelle:</strong>
+            <span>Schuleebene</span>
           </div>
         </div>
-        <div className="paul-mfe__hero-image">
-          <img src={heroPng} alt="Hero" />
-        </div>
+
+        {onCTA && (
+          <button className="paul-mfe__btn-cta paul-mfe__hero-cta" onClick={onCTA}>
+            Beispieldaten inspizieren
+          </button>
+        )}
       </div>
     </div>
   )
