@@ -1,6 +1,6 @@
 /**
  * Group Selector Styles
- * Feature grid for group selection
+ * Feature grid for group selection with subtle highlight animation
  */
 
 .paul-mfe__group-selector-page {
@@ -60,7 +60,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 1rem;
+  gap: 1.5rem;
   padding: 2rem;
   border: 2px solid var(--class-retention-border);
   border-radius: 12px;
@@ -72,7 +72,7 @@
   color: inherit;
   overflow: hidden;
 
-  /* Pseudo-element for gradient overlay */
+  /* Subtle overlay effect on hover */
   &::before {
     content: '';
     position: absolute;
@@ -80,11 +80,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(
-      135deg,
-      var(--group-color, #3b82f6) 0%,
-      transparent 60%
-    );
+    background: var(--class-retention-accent, #008dc9);
     opacity: 0;
     transition: opacity 0.3s ease;
     pointer-events: none;
@@ -93,31 +89,51 @@
   }
 
   &:hover {
-    border-color: var(--group-color, #3b82f6);
-    box-shadow: 0 12px 30px rgba(59, 130, 246, 0.2),
-      var(--class-retention-shadow);
-    transform: translateY(-4px);
+    border-color: var(--class-retention-accent, #008dc9);
+    box-shadow: 0 8px 24px rgba(0, 141, 201, 0.12);
+    transform: translateY(-2px);
 
     &::before {
-      opacity: 0.08;
+      opacity: 0.04;
+    }
+
+    .paul-mfe__group-card-icon {
+      transform: scale(1.1);
     }
 
     .paul-mfe__group-card-arrow {
       transform: translateX(4px);
+      opacity: 0.8;
     }
   }
 
   &:active {
-    transform: translateY(-2px);
+    transform: translateY(-1px);
   }
 }
 
 .paul-mfe__group-card-icon {
-  font-size: 3rem;
-  line-height: 1;
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   position: relative;
   z-index: 2;
+  width: 4.5rem;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--class-retention-text);
+  flex-shrink: 0;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.paul-mfe__group-card-icon svg {
+  width: 100%;
+  height: 100%;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+  display: block;
 }
 
 .paul-mfe__group-card-content {
@@ -144,11 +160,11 @@
 
 .paul-mfe__group-card-arrow {
   font-size: 1.5rem;
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-  color: var(--group-color, #3b82f6);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  color: var(--class-retention-accent, #008dc9);
   position: relative;
   z-index: 2;
-  opacity: 0.6;
+  opacity: 0.4;
 }
 
 /* Responsive adjustments */
@@ -179,8 +195,13 @@
   }
 
   .paul-mfe__group-card-icon {
-    font-size: 2.5rem;
+    width: 3.5rem;
+    height: 3.5rem;
     flex-shrink: 0;
+  }
+
+  .paul-mfe__group-card-icon svg {
+    stroke-width: 2;
   }
 
   .paul-mfe__group-card-arrow {
